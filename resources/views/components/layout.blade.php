@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=], initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>{{$pageTitle ?? 'To do: Inicio'}}</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -13,7 +13,7 @@
 <body>
     <div class="container">
         <div class="sidebar">
-            <img src="/assets/images/logo.png" alt="">
+            <img src="/assets/images/Laravel-Logo.png" alt="">
         </div>
         <div class="content">
             <nav>
